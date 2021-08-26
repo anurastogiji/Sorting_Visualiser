@@ -1,9 +1,9 @@
 from tkinter import *
 from tkinter import ttk
 import random
-from BubbleSort_anu import bubble_sort
-from quicksort_anu import quick_sort
-from mergesort_anu import merge_sort
+from BubbleSort import bubble_sort
+from quicksort import quick_sort
+from mergesort import merge_sort
 
 
 root = Tk()
